@@ -8,3 +8,5 @@
 1. App openai en Okteto --> 40
 2. Simple API en python para login de usuarios --> 30 pts
 3. Conectar app Openai a la API (login, usuario nuevo)  --> 30 pts
+4. Crear [instancia de Postresql](https://www.elephantsql.com/)
+5. Realizar Simple [API Graphql Python](https://www.howtographql.com/graphql-python/0-introduction/)
