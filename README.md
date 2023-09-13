@@ -10,3 +10,4 @@
 3. Conectar app Openai a la API (login, usuario nuevo)  --> 30 pts
 4. Crear [instancia de Postresql](https://www.elephantsql.com/)
 5. Realizar Simple [API Graphql Python](https://www.howtographql.com/graphql-python/0-introduction/)
+6. [Deploy API](https://docs.google.com/presentation/d/1dwkslhao4AJfPmMFkTiC-pfJ7FwoWMzu6zw_i59sQGw/edit#slide=id.p)
